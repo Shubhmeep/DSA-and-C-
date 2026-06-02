@@ -5,7 +5,7 @@ using namespace std;
 
 void pattern1(){
 
-           int rows = 5;
+    int rows = 5;
     int col = 5;
     int c = 1;
     for (int i=1;i<=rows;i++){
